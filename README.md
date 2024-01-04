@@ -1,2 +1,3 @@
 # Leetcode
-Leetcode problems 
+Leetcode Problems in Python
+Easy , Medium and Hard. 
